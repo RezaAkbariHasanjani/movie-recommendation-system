@@ -72,7 +72,6 @@ movie-recommendation-system/
 │
 ├── Recommended movies.ipynb
 ├── imdb_top_1000.csv
-├── requirements.txt
 ├── LICENSE
 └── README.md
 ```
